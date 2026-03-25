@@ -1,6 +1,6 @@
 # currencyapp
 
-[Watch Demo]((https://drive.google.com/file/d/102Nz2JNPDt17-cUTmIYHQhVcj_pNmGD0/view?usp=sharing))
+[Watch Demo](https://drive.google.com/file/d/102Nz2JNPDt17-cUTmIYHQhVcj_pNmGD0/view?usp=sharing)
 
 ## Getting Started
 
